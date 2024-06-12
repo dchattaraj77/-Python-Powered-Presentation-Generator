@@ -19,7 +19,7 @@ How to Use:
 2. Install Dependencies:
    pip install -r requirements.txt
 3. Customize the Prompt:
-   Modify the create_prompt() function in presentation_generator.py to suit your subject and audience.
+   Modify the create_prompt() function in Python-Powered Presentation Generator.py to suit your subject and audience.
 4. Generate Content:
    Run python presentation_generator.py to generate text content using OpenAI’s API.
 5. Convert Images:
