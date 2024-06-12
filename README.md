@@ -26,7 +26,7 @@ How to Use:
    Implement image conversion (e.g., using Pillow) as specified in the prompt.
 6. Create the Presentation:
    Use python-pptx or a similar library to assemble the slides.
-7. Share Your Insights! Change model to GPT-4o within the code.
+7. Share Your Insights!
 
 Example Prompt:
 You're skilled in presentation creation. Your task is to create a short presentation about [Subject] aimed at a [Specify Audience] audience.
