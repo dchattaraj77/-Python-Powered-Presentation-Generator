@@ -1,4 +1,4 @@
-# -Python-Powered-Presentation-GeneratorCustomize the Prompt:
+# Python-Powered-Presentation-GeneratorCustomize the Prompt:
 Overview:
 
 This Python-based tool empowers corporate professionals to create impactful PowerPoint presentations effortlessly. Whether you’re a sales executive, marketer, or business analyst, this repository simplifies the process of turning data into engaging slides.
